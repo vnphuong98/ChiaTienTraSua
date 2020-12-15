@@ -1,0 +1,10 @@
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\bin\Debug\ChiaTienTraSua.exe.config
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\bin\Debug\ChiaTienTraSua.exe
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\bin\Debug\ChiaTienTraSua.pdb
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\obj\Debug\ChiaTienTraSua.csprojAssemblyReference.cache
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\obj\Debug\ChiaTienTraSua.frmMain.resources
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\obj\Debug\ChiaTienTraSua.Properties.Resources.resources
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\obj\Debug\ChiaTienTraSua.csproj.GenerateResource.cache
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\obj\Debug\ChiaTienTraSua.csproj.CoreCompileInputs.cache
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\obj\Debug\ChiaTienTraSua.exe
+C:\Users\vnphu\OneDrive\Documents\dev\ChiaTienTraSua\ChiaTienTraSua\obj\Debug\ChiaTienTraSua.pdb
