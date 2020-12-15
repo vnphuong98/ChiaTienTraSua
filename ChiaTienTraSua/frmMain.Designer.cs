@@ -29,6 +29,7 @@ namespace ChiaTienTraSua
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
             this.btnCaculator = new System.Windows.Forms.Button();
             this.txtDiscount = new System.Windows.Forms.TextBox();
             this.lblDiscount = new System.Windows.Forms.Label();
@@ -153,6 +154,7 @@ namespace ChiaTienTraSua
             this.Controls.Add(this.lblDiscount);
             this.Controls.Add(this.txtDiscount);
             this.Controls.Add(this.btnCaculator);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmMain";
             this.Text = "Cute";
             ((System.ComponentModel.ISupportInitialize)(this.dgvMain)).EndInit();
