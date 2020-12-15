@@ -15,6 +15,7 @@ namespace ChiaTienTraSua
         public frmMain()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.icon;
         }
 
         private void btnCaculator_Click(object sender, EventArgs e)
